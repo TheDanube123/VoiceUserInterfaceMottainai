@@ -1,0 +1,151 @@
+0	[<s>]	sil
+1	[</s>]	sil
+2	[FILLER]	f m
+2	[FILLER]	w eh l
+3	[abottle]	ah b ao t ah l
+3	[abottle]	eh b ao t ah l
+3	[soysauce]	s oy s ao s
+3	[asoysaucebottle]	ah s oy s ao s b ao t ah l
+3	[asoysaucebottle]	eh s oy s ao s b ao t ah l
+3	[asoftdrink]	ah s ah f t d r ih ng k
+3	[asoftdrink]	eh s ah f t d r ih ng k
+3	[asoda]	ah s ow d ah
+3	[asoda]	eh s ow d ah
+3	[acoffee]	ah k aa f iy
+3	[acoffee]	eh k aa f iy
+3	[acoke]	ah k ow k
+3	[acoke]	eh k ow k
+3	[tea]	t iy
+3	[asakebottle]	ah s aa k eh b ao t ah l
+3	[asakebottle]	eh s aa k eh b ao t ah l
+3	[sake]	s ao k eh
+3	[asportsdrink]	ah s p ao r t s d r ih ng k
+3	[asportsdrink]	eh s p ao r t s d r ih ng k
+3	[adrink]	ah d r ih ng k
+3	[adrink]	eh d r ih ng k
+4	[acan]	ah k ax n
+4	[acan]	eh k ax n
+4	[atunacan]	ah t uw n ah k ax n
+4	[atunacan]	eh t uw n ah k ax n
+4	[tuna]	t uw n ah
+5	[cardboard]	k aa r d b ao r d
+5	[acardboardbox]	ah k aa r d b ao r d b oh k s
+5	[acardboardbox]	eh k aa r d b ao r d b oh k s
+5	[paper]	p ey p er
+5	[homework]	hh ow m w er k
+5	[amilkcarton]	ah m ih l k k aa r t ah n
+5	[amilkcarton]	ah m ih l k k aa t n
+5	[amilkcarton]	eh m ih l k k aa r t ah n
+5	[amilkcarton]	eh m ih l k k aa t n
+5	[acarton]	ah k aa r t ah n
+5	[acarton]	eh k aa r t ah n
+5	[acarton]	ah k aa t n
+5	[acarton]	eh k aa t n
+6	[anewspaper]	ah n uw z p ey p er
+6	[anewspaper]	eh n uw z p ey p er
+6	[anewspaper]	ah n y uw s p ey p ah r
+6	[anewspaper]	eh n y uw s p ey p ah r
+6	[anewspaper]	ah n y uw s p ey p ax
+6	[anewspaper]	eh n y uw s p ey p ax
+6	[anewspaper]	ah n y uw s p ey p ax r
+6	[anewspaper]	eh n y uw s p ey p ax r
+7	[ayogurt]	ah y ow g er t
+7	[ayogurt]	eh y ow g er t
+7	[asushitray]	ah s uh sh ih t r ey
+7	[asushitray]	eh s uh sh ih t r ey
+7	[abox]	ah b oh k s
+7	[abox]	eh b oh k s
+7	[awrapper]	ah r ae p ax r
+7	[awrapper]	eh r ae p ax r
+7	[wrapper]	r ae p ax r
+8	[asunscreenbottl]	ah s ah n s k r iy n b ao t ah l
+8	[asunscreenbottl]	eh s ah n s k r iy n b ao t ah l
+8	[sunscreen]	s ah n s k r iy n
+8	[abottlecap]	ah b ao t ah l k ae p
+8	[abottlecap]	eh b ao t ah l k ae p
+9	[batteries]	b ae t ax r ih z
+9	[batteries]	b ae t er iy z
+9	[abattery]	ah b ae t ax r iy
+9	[abattery]	ah b ae t er iy
+9	[abattery]	eh b ae t ax r iy
+9	[abattery]	eh b ae t er iy
+10	[plastic]	p l ae s t ih k
+10	[thefirstone]	dh ax f er s t w ah n
+10	[thefirst]	dh ax f er s t
+11	[metal]	m eh t ah l
+11	[aluminium]	ae l y uh m ih n ia m
+11	[aluminium]	ae l y uw m ih n ah m
+11	[aluminium]	ah l uw m ih n ah m
+11	[thesecond]	dh ax s eh k ah n d
+11	[thesecondone]	dh ax s eh k ah n d w ah n
+12	[glass]	g l aa s
+12	[glass]	g l ae s
+12	[thelast]	dh ax l ae s t
+12	[thelastone]	dh ax l ae s t w ah n
+13	[paper]	p ey p ax
+13	[paper]	p ey p ax r
+13	[paper]	p ey p er
+13	[cardboard]	k aa d b ao d
+13	[cardboard]	k aa r d b ao r d
+13	[thesecond]	dh ax s eh k ah n d
+13	[thesecondone]	dh ax s eh k ah n d w ah n
+14	[Idon'tknow]	ay d ow n t n ow
+14	[Idon'tknow]	ay d ow n n ow
+14	[none]	n ah n
+14	[none]	n ow n
+14	[nonone]	n ow n ah n
+14	[nonone]	n ow n ow n
+14	[noIdon'tknow]	n ow ay d ow n t n ow
+14	[noIdon'tknow]	n ow ay d ow n n ow
+15	[Iwantto]	ay w ah n t t uw
+16	[Ineedto]	ay n iy d t uw
+17	[have]	hh ae v
+18	[recycle]	r iy s ay k ah l
+18	[recycle]	r iy s ay k l
+19	[throwaway]	th r ow ah w ey
+20	[itis]	ih t ih z
+21	[please]	p l iy z
+22	[no]	n ow
+22	[I'mok]	ah ih m ow k eh ih
+22	[I'mok]	ah ih m ow k ey
+22	[I'mok]	ah m ow k eh ih
+22	[I'mok]	ah m ow k ey
+22	[I'mok]	ay m ow k eh ih
+22	[I'mok]	ay m ow k ey
+22	[nah]	n ao
+22	[itsok]	ih t ih z ow k eh ih
+22	[itsok]	ih t ih z ow k ey
+22	[nothanks]	n ow th ae ng k s
+23	[yeah]	y ae
+23	[yeah]	y ea
+23	[yeah]	y eh
+23	[sure]	sh ua
+23	[sure]	sh ua r
+23	[sure]	sh uh r
+23	[ok]	ow k eh ih
+23	[ok]	ow k ey
+24	[what]	w ah t
+24	[what]	w aa t
+24	[canyourepeattha]	k ax n y uw r iy p iy t dh ae t
+24	[canyourepeattha]	k ax n y uw r ih p iy t dh ae t
+25	[circle]	s er k ah l
+25	[circle]	s er k l
+25	[acircle]	ah s er k ah l
+25	[acircle]	eh s er k ah l
+25	[acircle]	ah s er k l
+25	[acircle]	eh s er k l
+26	[triangle]	t r ay ae ng g ah l
+26	[triangle]	t r ay ae ng g l
+26	[atriangle]	ah t r ay ae ng g ah l
+26	[atriangle]	eh t r ay ae ng g ah l
+26	[atriangle]	ah t r ay ae ng g l
+26	[atriangle]	eh t r ay ae ng g l
+27	[square]	s k w ea
+27	[square]	s k w ea r
+27	[square]	s k w eh r
+27	[asquare]	ah s k w ea
+27	[asquare]	eh s k w ea
+27	[asquare]	ah s k w ea r
+27	[asquare]	eh s k w ea r
+27	[asquare]	ah s k w eh r
+27	[asquare]	eh s k w eh r

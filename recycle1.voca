@@ -1,0 +1,213 @@
+#RECYCLE_VOCABULARY
+
+% NS_B
+<s>		sil
+
+% NS_E
+</s>		sil
+
+% HMM
+FILLER		f m
+FILLER		w eh l
+
+%RECYCLABLE_PGM
+abottle		ah b ao t ah l
+abottle		eh b ao t ah l
+soysauce	s oy s ao s
+asoysaucebottle	ah s oy s ao s b ao t ah l
+asoysaucebottle	eh s oy s ao s b ao t ah l
+asoftdrink	ah s ah f t d r ih ng k
+asoftdrink	eh s ah f t d r ih ng k
+asoda		ah s ow d ah
+asoda		eh s ow d ah
+acoffee		ah k aa f iy
+acoffee		eh k aa f iy
+acoke		ah k ow k
+acoke		eh k ow k
+tea		t iy
+asakebottle	ah s aa k eh b ao t ah l
+asakebottle	eh s aa k eh b ao t ah l
+sake		s ao k eh
+asportsdrink	ah s p ao r t s d r ih ng k
+asportsdrink	eh s p ao r t s d r ih ng k
+adrink		ah d r ih ng k
+adrink		eh d r ih ng k
+
+%RECYCLABLE_M
+acan		ah k ax n
+acan		eh k ax n
+atunacan	ah t uw n ah k ax n
+atunacan	eh t uw n ah k ax n
+tuna 		t uw n ah
+
+%RECYCLABLE_Pa
+cardboard	k aa r d b ao r d
+acardboardbox	ah k aa r d b ao r d b oh k s
+acardboardbox	eh k aa r d b ao r d b oh k s
+paper		p ey p er
+homework	hh ow m w er k
+amilkcarton	ah m ih l k k aa r t ah n
+amilkcarton	ah m ih l k k aa t n
+amilkcarton	eh m ih l k k aa r t ah n
+amilkcarton	eh m ih l k k aa t n
+acarton		ah k aa r t ah n
+acarton		eh k aa r t ah n
+acarton		ah k aa t n
+acarton		eh k aa t n
+
+%RECYCLABLE_NEWS
+
+anewspaper	ah n uw z p ey p er
+anewspaper	eh n uw z p ey p er
+anewspaper	ah n y uw s p ey p ah r
+anewspaper	eh n y uw s p ey p ah r
+anewspaper	ah n y uw s p ey p ax
+anewspaper	eh n y uw s p ey p ax
+anewspaper	ah n y uw s p ey p ax r
+anewspaper	eh n y uw s p ey p ax r
+
+%RECYCLABLE_PP
+
+ayogurt		ah y ow g er t
+ayogurt		eh y ow g er t
+asushitray	ah s uh sh ih t r ey
+asushitray	eh s uh sh ih t r ey
+abox		ah b oh k s
+abox		eh b oh k s
+awrapper	ah r ae p ax r
+awrapper	eh r ae p ax r
+wrapper		r ae p ax r
+
+%RECYCLABLE_Pl
+asunscreenbottl ah s ah n s k r iy n b ao t ah l
+asunscreenbottl	eh s ah n s k r iy n b ao t ah l
+sunscreen	s ah n s k r iy n
+abottlecap	ah b ao t ah l k ae p
+abottlecap	eh b ao t ah l k ae p
+
+%RECYCLABLE_B
+batteries	b ae t ax r ih z
+batteries	b ae t er iy z
+abattery	ah b ae t ax r iy
+abattery	ah b ae t er iy
+abattery	eh b ae t ax r iy
+abattery	eh b ae t er iy
+
+%MATERIALS_Pl
+plastic		p l ae s t ih k
+thefirstone	dh ax f er s t w ah n
+thefirst	dh ax f er s t
+
+%MATERIALS_M
+metal		m eh t ah l
+aluminium	ae l y uh m ih n ia m
+aluminium	ae l y uw m ih n ah m
+aluminium	ah l uw m ih n ah m
+thesecond	dh ax s eh k ah n d
+thesecondone	dh ax s eh k ah n d w ah n
+
+%MATERIALS_Gl
+glass		g l aa s
+glass		g l ae s
+thelast		dh ax l ae s t
+thelastone	dh ax l ae s t w ah n
+
+%MATERIALS_Pa
+paper		p ey p ax
+paper		p ey p ax r
+paper		p ey p er
+cardboard	k aa d b ao d
+cardboard	k aa r d b ao r d
+thesecond	dh ax s eh k ah n d
+thesecondone	dh ax s eh k ah n d w ah n
+
+%OPTIONS_UNSURE
+Idon'tknow	ay d ow n t n ow
+Idon'tknow	ay d ow n n ow
+none		n ah n
+none		n ow n
+nonone		n ow n ah n
+nonone		n ow n ow n
+noIdon'tknow	n ow ay d ow n t n ow
+noIdon'tknow	n ow ay d ow n n ow
+
+%WANT_V
+Iwantto		ay w ah n t t uw
+
+%NEED_V
+Ineedto		ay n iy d t uw
+	
+%HAVE_V
+have		hh ae v
+
+%RECYCLE_V
+recycle		r iy s ay k ah l
+recycle		r iy s ay k l
+
+%THROW_V
+throwaway	th r ow ah w ey
+
+%IS_V
+itis		ih t ih z
+
+% PLEASE
+please		p l iy z
+
+% NO
+no		n ow
+I'mok		ah ih m ow k eh ih
+I'mok		ah ih m ow k ey
+I'mok		ah m ow k eh ih
+I'mok		ah m ow k ey
+I'mok		ay m ow k eh ih
+I'mok		ay m ow k ey
+nah		n ao
+itsok		ih t ih z ow k eh ih
+itsok		ih t ih z ow k ey
+nothanks	n ow th ae ng k s
+
+%YES yes		y eh s
+yeah		y ae
+yeah		y ea
+yeah		y eh
+sure		sh ua
+sure		sh ua r
+sure		sh uh r
+ok		ow k eh ih
+ok 		ow k ey
+
+%NOT_UNDERSTAND
+what		w ah t
+what 		w aa t
+canyourepeattha	k ax n y uw r iy p iy t dh ae t
+canyourepeattha	k ax n y uw r ih p iy t dh ae t
+
+%CIRCLE
+
+circle 		s er k ah l
+circle		s er k l
+acircle		ah s er k ah l
+acircle		eh s er k ah l
+acircle		ah s er k l
+acircle		eh s er k l
+
+%TRIANGLE
+
+triangle	t r ay ae ng g ah l
+triangle	t r ay ae ng g l
+atriangle	ah t r ay ae ng g ah l
+atriangle 	eh t r ay ae ng g ah l
+atriangle	ah t r ay ae ng g l
+atriangle 	eh t r ay ae ng g l
+
+%SQUARE
+
+square		s k w ea
+square		s k w ea r
+square		s k w eh r
+asquare 	ah s k w ea
+asquare		eh s k w ea
+asquare		ah s k w ea r
+asquare		eh s k w ea r
+asquare		ah s k w eh r
+asquare		eh s k w eh r
